@@ -17,6 +17,10 @@ ProgateでHTML/CSS/JavaScriptを学んだ後に、Appleの公式サイトを参�
 ## 制作期間
 約1日 初めての模写作品で、CSSの書き方や画像の扱い方を確認しながら作成しました。
 
+## 公開URL  
+[https://soatot72413115.github.io/apple-clone/]
+
+
 ## 今後の改善予定
 - JavaScriptを使って動きを加える
 - 他セクションの追加・ページ拡張
